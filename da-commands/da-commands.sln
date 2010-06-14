@@ -3,6 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "da-library.Google", "da-library.Google\da-library.Google.csproj", "{6C19E5C9-EC19-43C6-B384-77C1265E01C3}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EE84C550-49DC-4AC2-A0C0-3EBF75509BDA}"
+	ProjectSection(SolutionItems) = preProject
+		leeme.txt = leeme.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SubversionScc) = preSolution
 		Svn-Managed = True
