@@ -1,0 +1,3 @@
+DA-Commands: La navaja suiza del software como servicio
+
+Este proyecto nace de una necesidad mía de interactuar con varios servicios de Google, y como estuve buscando distintas herramientas para esto, y al no haberlas encontrado, me decidí a desarrollar todo lo que fuera necesitando a medida que me surgiera, y todo esto lo englobaría dentro de un proyecto llamado da-commands. Inicialmente voy a necesitar algunas herramientas de línea de comandos, pero más adelante voy a ir agregando otras herramientas como servicios de windows, aplicaciones web, etc. Además, voy a necesitar interactuar con otros servicios externos a google, para lo cual también voy a agregar las herramientas aquí mismo.
